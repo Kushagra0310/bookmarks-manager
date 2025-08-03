@@ -40,4 +40,4 @@ A simple and clean web-based application that allows you to **save, view, and de
 
 ## 🌐 Live Demo
 
-👉 [Click here to view live](https://github.com/Kushagra0310/bookmarks-manager.git).
+👉 [Click here to view live]( https://kushagra0310.github.io/bookmarks-manager/).
